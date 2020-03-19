@@ -39,7 +39,7 @@ class App extends Component {
   };
 
   handleDelete = id => {
-    console.log(`handle edit ${id}`);
+    console.log(`handle delete ${id}`);
   };
 
   handleEdit = id => {
